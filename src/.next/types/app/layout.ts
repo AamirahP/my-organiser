@@ -1,4 +1,4 @@
-// File: C:\Users\aamir\Documents\TSI\my-organiser\src\app\layout.tsx
+// File: C:\Users\Work\Desktop\amiraAPI\amirahAPI\src\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
