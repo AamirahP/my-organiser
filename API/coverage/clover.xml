@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1719254975018" clover="3.2.0">
-  <project timestamp="1719254975018" name="All files">
-    <metrics statements="178" coveredstatements="121" conditionals="9" coveredconditionals="0" methods="15" coveredmethods="12" elements="202" coveredelements="133" complexity="0" loc="178" ncloc="178" packages="4" files="13" classes="13"/>
+<coverage generated="1719457528363" clover="3.2.0">
+  <project timestamp="1719457528364" name="All files">
+    <metrics statements="181" coveredstatements="122" conditionals="10" coveredconditionals="0" methods="15" coveredmethods="12" elements="206" coveredelements="134" complexity="0" loc="181" ncloc="181" packages="4" files="13" classes="13"/>
     <package name="my-library">
       <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="app.ts" path="C:\Users\aamir\Documents\TSI\my-organiser\API\my-library\app.ts">
@@ -55,7 +55,7 @@
       </file>
     </package>
     <package name="my-library.routes">
-      <metrics statements="133" coveredstatements="76" conditionals="9" coveredconditionals="0" methods="15" coveredmethods="12"/>
+      <metrics statements="136" coveredstatements="77" conditionals="10" coveredconditionals="0" methods="15" coveredmethods="12"/>
       <file name="currently-reading.ts" path="C:\Users\aamir\Documents\TSI\my-organiser\API\my-library\routes\currently-reading.ts">
         <metrics statements="41" coveredstatements="23" conditionals="3" coveredconditionals="0" methods="5" coveredmethods="4"/>
         <line num="1" count="1" type="stmt"/>
@@ -101,22 +101,25 @@
         <line num="83" count="1" type="stmt"/>
       </file>
       <file name="isbnSearchRoutes.ts" path="C:\Users\aamir\Documents\TSI\my-organiser\API\my-library\routes\isbnSearchRoutes.ts">
-        <metrics statements="15" coveredstatements="6" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <metrics statements="18" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="3" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="18" count="0" type="cond" truecount="0" falsecount="1"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="22" count="0" type="stmt"/>
-        <line num="23" count="0" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="1"/>
         <line num="25" count="0" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="30" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
       </file>
       <file name="read.ts" path="C:\Users\aamir\Documents\TSI\my-organiser\API\my-library\routes\read.ts">
         <metrics statements="41" coveredstatements="28" conditionals="3" coveredconditionals="0" methods="5" coveredmethods="5"/>
